@@ -1,8 +1,10 @@
 # FlickrPolish
-This repository includes the Flickr30k and Flickr8k captions translated to Polish language.
-Captions were generated and used for the experiments in paper:
+This repository includes the Flickr30k and Flickr8k captions translated to Polish language, with usage of [Azure Translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#overview)
+Captions were generated and used for the research purposes, described in paper:
 
 [Generating image captions in Polish – experimental study](https://ieeexplore.ieee.org/document/9538664)
+
+
 ## Flickr8k Dataset
 Date of translation:
 03.3.2021
@@ -13,6 +15,7 @@ Date of translation:
 Date of translation: 14.05.2022
 - descriptions_flickr30k_translated.csv - all captions from Flickr30k translated to Polish in csv format
 - descriptions_flickr30k_translated.pkl - all captions from Flickr30k translated to Polish in Pickle format
+
 File csv structure header:
 - image_name
 - comments
@@ -34,8 +37,8 @@ If you find this repo helpful, please consider citing:
 ```
 
 # FlickrPolish
-W repozytorium umieszczone zostały podpisy do obrazów ze zbiorów Flickr30k and Flickr8k przetłumaczone na język Polski.
-Zostały wygenerowane dla prac nad artykułem:
+W repozytorium umieszczone zostały podpisy do obrazów ze zbiorów Flickr30k and Flickr8k przetłumaczone na język Polski przy użyciu [Azure Translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#overview).
+Podpisy zostały wygenerowane dla badań opisanych w artykule
 
 [Generating image captions in Polish – experimental study](https://ieeexplore.ieee.org/document/9538664)
 ## Zbiór Flickr8k
@@ -48,6 +51,7 @@ Data tłumaczenia:
 Data tłumaczenia: 14.05.2022
 - descriptions_flickr30k_translated.csv - wszystkie podpisy dla zbioru Flickr30k przetłumaczone na język Polski w formacie csv
 - descriptions_flickr30k_translated.pkl - wszystkie podpisy dla zbioru Flickr30k przetłumaczone na język Polski w formacie Pickle
+
 Struktura nagłówka pliku csv
 - image_name
 - comments
@@ -56,7 +60,7 @@ Separator danych
 - |
 
 ## Odnośniki
-Jeżeli wykorzystałeś repozytorium, umieść niniejsze cytowanie
+Jeżeli wykorzystałeś repozytorium, proszę umieść niniejsze cytowanie
 ```
 @InProceedings{Bartosiewicz2021Generating,
   author    = {Bartosiewicz, Mateusz and Krupińska, Izabela and Bany, Maciej and Konieczna, Anna and Ostrowski, Mateusz and Zalewski, Maciej and Iwanowski, Marcin},

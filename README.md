@@ -1,10 +1,13 @@
 # FlickrPolish
-This repository includes the Flickr30k and Flickr8k captions translated to Polish language, with usage of [Azure Translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#overview)
+This repository includes the Flickr30k and Flickr8k captions translated to Polish language, with usage of [Azure Translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#overview).
 Captions were generated and used for the research purposes, described in paper:
 
 [Generating image captions in Polish – experimental study](https://ieeexplore.ieee.org/document/9538664)
 
-
+## Few mentions
+ - Translations for Flicktr8k and Flicktr30k were created separately, in different dates.
+ - Different dates of translation for both datasets, can cause little differences in translations for the pictures that occur both in Flicktr8k and      Flicktr30k.
+ 
 ## Flickr8k Dataset
 Date of translation:
 03.3.2021
@@ -37,10 +40,15 @@ If you find this repo helpful, please consider citing:
 ```
 
 # FlickrPolish
-W repozytorium umieszczone zostały podpisy do obrazów ze zbiorów Flickr30k and Flickr8k przetłumaczone na język Polski przy użyciu [Azure Translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#overview).
+W repozytorium umieszczone zostały podpisy do obrazów ze zbiorów Flickr30k i Flickr8k przetłumaczone na język Polski przy użyciu [Azure Translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#overview).
 Podpisy zostały wygenerowane dla badań opisanych w artykule
 
 [Generating image captions in Polish – experimental study](https://ieeexplore.ieee.org/document/9538664)
+
+## Uwagi
+- Oba zbiory zostały przetłumaczone oddzielnie, w różnym czasie.
+- W związku z różnymi datami tłumaczenia, zdjęcia wystepujące zarówno w zbiorze Flicktr8k, jak i Flicktr30k mogą mieć drobne różnice w tłumaczeniu.
+
 ## Zbiór Flickr8k
 Data tłumaczenia:
 03.3.2021

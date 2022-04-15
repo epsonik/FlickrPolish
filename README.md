@@ -10,4 +10,5 @@ File csv structure header:
 - comments
 Delimiter
 - |
+
 Version:1.0

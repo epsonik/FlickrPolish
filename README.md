@@ -21,7 +21,7 @@ Date of translation: 14.05.2022
 
 File csv structure header:
 - image_name
-- comments
+- comment
 
 Data delimiter
 - |
@@ -62,7 +62,7 @@ Data tłumaczenia: 14.05.2022
 
 Struktura nagłówka pliku csv
 - image_name
-- comments
+- comment
 
 Separator danych
 - |

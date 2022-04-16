@@ -11,9 +11,9 @@ Captions were generated and used for the research purposes, described in paper:
 ## Flickr8k Dataset
 Date of translation:
 03.3.2021
-- descriptions_flickr8k_translated.csv - all captions from Flickr8k translated to Polish in csv format
+- descriptions_flickr8k_translated.csv - file in csv format, that consists all captions from Flickr8k dataset translated to Polish language
 
-File csv structure header:
+File descriptions_flickr8k_translated.csv structure header:
 - image_name
 - caption
 
@@ -22,9 +22,9 @@ Data delimiter
 
 ## Flickr30k Dataset
 Date of translation: 14.05.2022
-- descriptions_flickr30k_translated.csv - all captions from Flickr30k translated to Polish in csv format
+- descriptions_flickr30k_translated.csv - file in csv format, that consists all captions from Flickr30k dataset translated to Polish language
 
-File csv structure header:
+File descriptions_flickr30k_translated.csv structure header:
 - image_name
 - comment
 
@@ -57,9 +57,9 @@ Podpisy zostały wygenerowane dla badań opisanych w artykule
 ## Zbiór Flickr8k
 Data tłumaczenia:
 03.3.2021
-- descriptions_flickr8k_translated.csv - wszystkie podpisy dla zbioru Flickr8k przetłumaczone na język Polski w formacie csv
+- descriptions_flickr8k_translated.csv - plik w formacie csv zawierający wszystkie podpisy dla zbioru Flickr8k przetłumaczone na język Polski
 
-Struktura nagłówka pliku csv
+Struktura nagłówka pliku descriptions_flickr8k_translated.csv
 - image_name
 - caption
 
@@ -68,9 +68,9 @@ Separator danych
 
 ## Zbiór Flickr30k
 Data tłumaczenia: 14.05.2022
-- descriptions_flickr30k_translated.csv - wszystkie podpisy dla zbioru Flickr30k przetłumaczone na język Polski w formacie csv
+- descriptions_flickr30k_translated.csv - plik w formacie csv zawierający wszystkie podpisy dla zbioru Flickr30k przetłumaczone na język Polski
 
-Struktura nagłówka pliku csv
+Struktura nagłówka pliku descriptions_flickr30k_translated.csv
 - image_name
 - comment
 

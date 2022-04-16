@@ -12,12 +12,17 @@ Captions were generated and used for the research purposes, described in paper:
 Date of translation:
 03.3.2021
 - descriptions_flickr8k_translated.csv - all captions from Flickr8k translated to Polish in csv format
-- descriptions_flickr8k_translated.pkl - all captions from Flickr8k translated to Polish in Pickle format
+
+File csv structure header:
+- image_name
+- caption
+
+Data delimiter
+- |
 
 ## Flickr30k Dataset
 Date of translation: 14.05.2022
 - descriptions_flickr30k_translated.csv - all captions from Flickr30k translated to Polish in csv format
-- descriptions_flickr30k_translated.pkl - all captions from Flickr30k translated to Polish in Pickle format
 
 File csv structure header:
 - image_name
@@ -53,12 +58,17 @@ Podpisy zostały wygenerowane dla badań opisanych w artykule
 Data tłumaczenia:
 03.3.2021
 - descriptions_flickr8k_translated.csv - wszystkie podpisy dla zbioru Flickr8k przetłumaczone na język Polski w formacie csv
-- descriptions_flickr8k_translated.pkl - wszystkie podpisy dla zbioru Flickr8k przetłumaczone na język Polski w formacie Pickle
+
+Struktura nagłówka pliku csv
+- image_name
+- caption
+
+Separator danych
+- |
 
 ## Zbiór Flickr30k
 Data tłumaczenia: 14.05.2022
 - descriptions_flickr30k_translated.csv - wszystkie podpisy dla zbioru Flickr30k przetłumaczone na język Polski w formacie csv
-- descriptions_flickr30k_translated.pkl - wszystkie podpisy dla zbioru Flickr30k przetłumaczone na język Polski w formacie Pickle
 
 Struktura nagłówka pliku csv
 - image_name
